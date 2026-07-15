@@ -1,50 +1,49 @@
-# Hi there, I'm Subhransu Nayak! 👋
+<h1 align="center">Subhransu Nayak</h1>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=System+Architecture;Product+Engineering;AI+Workflow+Automation;Let's+build+something+scalable+together!+%F0%9F%9A%80" alt="Typing SVG" />
+<h3 align="center">Just A Developer Making Fun Stuff On The Internet</h3>
+
+<br />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,vercel,python,docker&perline=12" />
   </a>
-</div>
-
----
-
-### 🛠 Tech Stack & Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
----
+<br />
 
-### 📊 GitHub Metrics & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SubhransuNayak007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=fff&icon_color=79ff97&text_color=9f9f9f&hide_title=true" alt="Subhransu's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhransuNayak007&theme=radical&hide_border=true&background=0D1117&ring=79ff97&fire=79ff97&currStreakNum=fff&sideNums=fff&currStreakLabel=79ff97&sideLabels=79ff97" alt="Subhransu's GitHub Streak" />
+</p>
 
-<!-- lowlighter/metrics generated image -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SubhransuNayak007/SubhransuNayak007/main/github-metrics.svg" alt="GitHub Metrics" />
-</div>
+<br />
 
-<br/>
+<p align="center">
+  <a href="https://github.com/SubhransuNayak007/privacy-lens">
+    <img src="https://img.shields.io/badge/PRIVACY%20LENS-000000?style=for-the-badge&logo=shield&logoColor=white" alt="Privacy Lens" />
+  </a>
+  <a href="https://github.com/SubhransuNayak007">
+    <img src="https://img.shields.io/badge/MY%20REVIEWS-000000?style=for-the-badge&logo=github&logoColor=white" alt="My Reviews" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SubhransuNayak007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  
-  <!-- Streak Stats Card -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhransuNayak007&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+<br />
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SubhransuNayak007&label=PROFILE+VIEWS&color=0e1117&style=for-the-badge" alt="Profile Views" />
+</p>
 
-### ⚡ Recent Activity
-* 🌱 I’m currently learning **Advanced System Architecture**
-* 👯 I’m looking to collaborate on **Open Source AI projects**
+<br />
+
+<h3 align="center">Subhransu Nayak's Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhransuNayak007&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+</p>
+
+<br />
+
+<h4 align="center">BUILT WITH LATE-NIGHT IDEAS</h4>
